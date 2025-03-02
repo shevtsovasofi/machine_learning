@@ -1,1 +1,1 @@
-# machine_leraning
+Репозиторий для домашек по машинному обучению # machine_leraning
